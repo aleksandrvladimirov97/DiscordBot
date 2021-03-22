@@ -1,2 +1,6 @@
-if __name__ == "__main__":
-	print("Privet!")
+import googletrans
+from googletrans import Translator
+
+
+translator = Translator()
+print(googletrans.LANGUAGES)

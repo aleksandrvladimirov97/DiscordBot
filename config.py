@@ -1,0 +1,2 @@
+settings = {'token': 'ODIyMjMyMDY5NjM5ODk3MTU4.YFPRSQ.WOrfAZOBgQBjhlLopp_F9t4BqLU', 'bot': 'SeaWolf3', 'id': 822232069639897158, 'prefix': '!'}
+key = "trnsl.1.1.20210319T194445Z.2b693fea2302d54d.86910b1c993193a90ac582d5448420c8ba02193d"
